@@ -1,4 +1,4 @@
-# dimenssionnement
+# dimensionnement
 
 Conditions considérés :
 - sol plat
@@ -22,8 +22,9 @@ Le calcul donne une puissance mini de 3750W en sortie du moteur. Soit 2925W à l
 
 A partir de la puissance à la roue, nous en déduisons le temps d'accélération mini : 6,46 secondes
 
-## consomation électrique
+## dimensionnement des batteries
 
+Pour une autonomie de 70km il faut donc en théorie 3750Wh d'énergie. En prenant des batteries de 48V cela donne une capacité totale de 78Ah.
+Soit 19kg de batterie LiPo en supposant une densité massique de 200Wh/kg.
 
-
-
+Ça va être sympa a caser tout ça.
